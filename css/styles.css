@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    font-family: 'Anton', sans-serif;
+    color: #000000;
+    background-image: linear-gradient(to top, #000000, #f6f6f6);
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+
+.header{
+    text-decoration: none;
+    font-size: 1.5rem;  
+}
+
+.navcolor {
+    background-color: #000000;
+}
+
+
+.card {
+    background-color: rgb(255, 255, 255);
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h3{
+    color: rgb(0, 0, 0);
+
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+a img {
+    width: 100%;
+}
+
+.parrafo{
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.footer ul li{
+    color: rgb(255, 255, 255);
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    margin: .5em;
+
+}
+
+.footer ul li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+    line-height: 30px !important;
+    }
+
+.tabla {
+    border:none;
+    border-collapse:separate;
+    padding:30px;
+    margin: 0 auto;
+}
+
+.tabla td {
+    border:none;
+    text-align:left;
+    padding:30px;
+    background: #00000000;
+    color: #000000;
+    font-size: 2.5rem;
+}
+
+.disco {
+    overflow: hidden;
+}
+
+h5 {
+    text-decoration: underline;
+    font-size: 2rem;
+}
+
+.alincenter{
+    text-align: center;
+ }
